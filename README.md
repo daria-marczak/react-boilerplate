@@ -15,8 +15,8 @@ Personal React boilerplate project for learning purposes.
 
 | Script   | Description                             |
 | -------- | --------------------------------------- |
-| dev      | Run the application in development mode. Depending on your styling choice, choose either `:scss` or `styled` to get the correct config. |
-| prod     | Run the application in production mode. Depending on your styling choice, choose either `:scss` or `styled` to get the correct config. |
+| dev      | Run the application in development mode. Depending on your styling choice, choose either `:scss` or `:styled` to get the correct config. |
+| prod     | Run the application in production mode. Depending on your styling choice, choose either `:scss` or `:styled` to get the correct config. |
 | format   | Use prettier to format the files        |
 | lint     | Run eslint (only point out the issues)  |
 | lint:fix | Run eslint with `--write` flag          |
@@ -29,7 +29,7 @@ Personal React boilerplate project for learning purposes.
 
 - ✅ TravisCI config + AWS deployment
 - ✅ Storybook configuration (and deploy to AWS)
-- 🚧 Storybook CI deployment configuration
+- ✅ Storybook CI deployment configuration
 - ✅ tree shaking and code splitting
 - ✅ Webpack workflows for better performance (styles, images pipelines)
 - ✅ config for styled-components
